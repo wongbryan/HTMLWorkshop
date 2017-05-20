@@ -1,0 +1,49 @@
+body{
+	margin: 0;
+	overflow-x: hidden;
+}
+
+#landing{
+	height: 100vh;
+	width: 100vw;
+	overflow: hidden;
+}
+
+#landing img{
+	width: 100%;
+}
+
+.profile{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 300px;
+	transform: translate(-50%, -50%);
+	padding: 10px;
+	color: white;
+}
+
+.profile img{
+	width: 200px;
+}
+
+.profile header{
+	font-family: Helvetica;
+	font-size: 2em;
+	font-weight: bold;
+}
+
+.profile p{
+	font-family: Helvetica;
+	font-size: 1em;
+/*	margin: 10px;*/
+}
+
+.links div{
+	float: left;
+	width: 30px;
+}
+
+.links img{
+	width: inherit;
+}
