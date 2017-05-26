@@ -35,12 +35,10 @@ type "git remote add origin *copy and paste the link here*"
 
 "git push origin master"
 
-And, we are in business baby.
-
 All we have to do now is go into our settings in the repository (on your browser), and enable "github pages" to read from the master branch.
 
 
-## I made some changes, how do I update my github repository??!?!??!?!
+## I made some changes, how do I update my github repository (update my website)?
 
 Easy!  Navigate to in your terminal to your directory that is linked to the repository.
 
