@@ -1,0 +1,40 @@
+.box{
+
+/*THINGS YOU SHOULDN"T PROBABLY CHANGE MAYBE
+*/	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+
+
+/*THINGS YOU CAN CHANGE: */
+	height: 200px;
+	width: 250px;
+
+	background-color: black;
+	padding: 15px;
+}
+
+
+
+h1{
+	/*THINGS YOU CAN CHANGE: */
+
+	font-family: Helvetica;
+	color: white;	/*Font color*/
+}
+
+p{
+	/*THINGS YOU CAN CHANGE: */
+
+	font-family: Helvetica;
+	color: white;	/*Font color*/
+}
+
+body{
+
+	/*THINGS YOU CAN CHANGE: */
+
+	background-color: white;
+}
+
